@@ -43,6 +43,7 @@
 
 ## Accessories
 
-| Item | Reference |
-|-|-|
+| Item | Reference | Price |
+|-|-|-|
 | Pedals |  Specialized Fitness platform |
+| Rear rack | Racktime Addit | 52€
