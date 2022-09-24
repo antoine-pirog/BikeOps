@@ -34,12 +34,13 @@
 
 ## Cockpit
 
-| Item | Reference |
-|-|-|
-| Stem | 3D forged aluminum, 7-degree rise, 31.8mm clamp |
+| Item | Reference | Price |
+|-|-|-|
+| Stem | XLC Comp ST-T13 ajustable stem Ø31,8mm | 36€ |
 | Handlebars | Specialized, double-butted alloy, 9-degree backsweep, 31.8mm |
 | Grips | Body Geometry Flow Set Control Grips, lock-on |
 | Saddle | Canopy Sport, steel rails |
+| Seatpost | Red Cycling Products PRO 3D II Seatpost Ø27,2 mm | 17€ |
 
 ## Accessories
 
@@ -47,3 +48,6 @@
 |-|-|-|
 | Pedals |  Specialized Fitness platform |
 | Rear rack | Racktime Addit | 52€
+| Rear & front mudguards | Sks Bluemels 27-28" - 53 mm x 28" | 26€ |
+| Kickstand | BBB Cycling CityKick | 16€ |
+| Frame lock | Kryptonite Frame Lock with Flex Mount | 34€ |
