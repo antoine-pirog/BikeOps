@@ -10,14 +10,14 @@
 
 ## Wheels
 
-| Item | Reference |
-|-|-|
+| Item | Reference | Price |
+|-|-|-|
 | Rims | 700c, 6061 aluminum double-wall |
 | Front hub | Specialized, loose ball bearings, 32h, 9mm QR |
 | Rear hub | Specialized, loose ball bearings, 8-/9-speed cassette body, 32h, 9mm QR |
 | Spokes | Stainless, 14g |
-| Front tire | Trigger Sport Reflect, 700x38mm, 60TPI, wire bead |
-| Rear tire | Trigger Sport Reflect, 700x38mm, 60TPI, wire bead |
+| Front tire | SCHWALBE Marathon Plus Tour 28x1.40" Performance Reflex | 28€ |
+| Rear tire | SCHWALBE Marathon Plus Tour 28x1.40" Performance Reflex | 28€ |
 
 ## Drivetrain
 
@@ -41,6 +41,7 @@
 | Grips | Body Geometry Flow Set Control Grips, lock-on |
 | Saddle | Canopy Sport, steel rails |
 | Seatpost | Red Cycling Products PRO 3D II Seatpost Ø27,2 mm | 17€ |
+| Bell | Knog Oi Luxe | 35€ |
 
 ## Accessories
 
