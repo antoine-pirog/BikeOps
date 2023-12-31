@@ -1,7 +1,7 @@
 # Specialized Crosstrail 2017 - Mileage
 
 | Date | Added mileage |
-|-|-|-|
+|-|-|
 | 30/09/2022 | +322 km |
 | 31/10/2022 | +243 km |
 | 30/11/2022 | +115 km |
