@@ -12,9 +12,9 @@
 
 | Item | Reference | Price |
 |-|-|-|
-| Rims | 700c, 6061 aluminum double-wall |
-| Front hub | Specialized, loose ball bearings, 32h, 9mm QR |
-| Rear hub | Specialized, loose ball bearings, 8-/9-speed cassette body, 32h, 9mm QR |
+| Rims | 700c, Mavic A319 | 177€ |
+| Front hub | Shimano Deore FH-T610|
+| Rear hub | Shimano Deore HB-T610, 32h, 9mm QR |
 | Spokes | Stainless, 14g |
 | Front tire | SCHWALBE Marathon Plus Tour 28x1.40" Performance Reflex | 28€ |
 | Rear tire | SCHWALBE Marathon Plus Tour 28x1.40" Performance Reflex | 28€ |
