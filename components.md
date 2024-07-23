@@ -38,7 +38,7 @@
 |-|-|-|
 | Stem | XLC Comp ST-T13 ajustable stem Ø31,8mm | 36€ |
 | Handlebars | Specialized, double-butted alloy, 9-degree backsweep, 31.8mm |
-| Grips | Body Geometry Flow Set Control Grips, lock-on |
+| Grips | Ergon GP3L |
 | Saddle | Canopy Sport, steel rails |
 | Seatpost | Red Cycling Products PRO 3D II Seatpost Ø27,2 mm | 17€ |
 | Bell | Knog Oi Luxe | 35€ |
