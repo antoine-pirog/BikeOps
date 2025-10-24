@@ -12,7 +12,7 @@
 
 | Item | Reference | Price |
 |-|-|-|
-| Rims | 700c, Mavic A319 | 177€ |
+| Rims | 700c, Mavic A319 |
 | Front hub | Shimano Deore FH-T610|
 | Rear hub | Shimano Deore HB-T610, 32h, 9mm QR |
 | Spokes | Stainless, 14g |
@@ -21,9 +21,9 @@
 
 ## Drivetrain
 
-| Item | Reference |
-|-|-|
-| Chain | KMC X8, 8-speed w/reusable MissingLink |
+| Item | Reference | Price |
+|-|-|-|
+| Chain | Decathlon Chaine 3-8 | 15€ |
 | Crankset | Stout, forged alloy w/chainguard |
 | Chainrings | 48/38/28T w/chainguard |
 | Bottom bracket | BSA, square taper, cartridge bearings |
