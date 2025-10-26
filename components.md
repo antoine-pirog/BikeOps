@@ -23,14 +23,14 @@
 
 | Item | Reference | Price |
 |-|-|-|
-| Chain | Decathlon Chaine 3-8 | 15€ |
+| Chain | Decathlon Chaine 3-8 |
 | Crankset | Stout, forged alloy w/chainguard |
 | Chainrings | 48/38/28T w/chainguard |
 | Bottom bracket | BSA, square taper, cartridge bearings |
 | Front derailleur | Shimano Altus 3x7/8 31.8/34.9MM |
 | Rear derailleur | Shimano Altus, 8-speed |
 | Shift levers | Shimano EF500, EZ Fire Plus, 8-speed |
-| Cassette | Sunrace, 8-speed, 11-34t |
+| Cassette | Decathlon Cassette 8-speed 11x34t | 18€ |
 
 ## Cockpit
 
