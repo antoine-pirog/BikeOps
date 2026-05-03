@@ -52,3 +52,4 @@
 | Rear & front mudguards | Sks Bluemels 27-28" - 53 mm x 28" | 26€ |
 | Kickstand | BBB Cycling CityKick | 16€ |
 | Frame lock | Kryptonite Frame Lock with Flex Mount | 34€ |
+| Lights | Reelight RL700 Series (front: fork ; rear: rack & constant) | 95€ |
