@@ -23,11 +23,11 @@
 
 | Item | Reference | Price |
 |-|-|-|
-| Chain | Decathlon Chaine 3-8 |
+| Chain | Decathlon Chaine 3-8 | 15€ |
 | Crankset | Stout, forged alloy w/chainguard |
 | Chainrings | 48/38/28T w/chainguard |
 | Bottom bracket | BSA, square taper, cartridge bearings |
-| Front derailleur | Shimano Altus 3x7/8 31.8/34.9MM |
+| Front derailleur | Shimano Altus 3x7/8 31.8/34.9MM | 15€ |
 | Rear derailleur | Shimano Altus, 8-speed |
 | Shift levers | Shimano EF500, EZ Fire Plus, 8-speed |
 | Cassette | Decathlon Cassette 8-speed 11x34t | 18€ |
@@ -47,7 +47,7 @@
 
 | Item | Reference | Price |
 |-|-|-|
-| Pedals |  Specialized Fitness platform |
+| Pedals | Strap pedals | 25€ |
 | Rear rack | Racktime Addit | 52€
 | Rear & front mudguards | Sks Bluemels 27-28" - 53 mm x 28" | 26€ |
 | Kickstand | BBB Cycling CityKick | 16€ |
