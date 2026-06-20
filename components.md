@@ -12,7 +12,7 @@
 
 | Item | Reference | Price |
 |-|-|-|
-| Rims | 700c, Mavic A319 |
+| Rims | 700c, Mavic A319 | 176€ |
 | Front hub | Shimano Deore FH-T610|
 | Rear hub | Shimano Deore HB-T610, 32h, 9mm QR |
 | Spokes | Stainless, 14g |
